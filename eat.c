@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
-void grade(int m);
 int main()
 {
     int n;
